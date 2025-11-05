@@ -1,0 +1,14 @@
+A simple and peaceful Tasbih Counter App built using Python (Tkinter + Pillow) that helps you remember Allah ﷻ while keeping count of your dhikr.
+Each click on the SubhanAllah button not only increases your counter but also shows a beautiful slideshow of images from your local folder — creating a calm, spiritual experience.
+
+✨ Features
+
+🧮 Tasbih Counter: Click to increase your dhikr count.
+
+🖼 Image Slideshow: Displays images (like nature or Islamic art) from your images/ folder.
+
+🔁 Loop Functionality: Images automatically loop when the last one is reached.
+
+🌙 Lightweight and Offline: Works completely offline — no internet required.
+
+💻 Simple UI: Built with Python’s Tkinter for easy use and customization.
